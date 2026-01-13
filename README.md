@@ -94,11 +94,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caaads&theme=tokyonight" />
 </p>
 
+---
 
 ## Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaads&layout=compact&theme=tokyonight" />
 </p>
+
+---
 
 ## Contribution Graph
 
