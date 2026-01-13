@@ -99,9 +99,9 @@
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 > I build muscles by day and build systems by night  💪💻
 
 ---
 
-⭐ **Star my repos if you like what you see — more stars = more fire projects**
+**Star my repos if you like what you see — more stars = more fire projects**
