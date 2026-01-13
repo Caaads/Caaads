@@ -70,13 +70,29 @@
   <img src="https://streak-stats.demolab.com/?user=Caaads&theme=tokyonight" width="48%" />
 </p>
 
+## Coding Activity (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Caaads&theme=tokyonight&layout=compact" />
+</p>
+
+> Tracks your real coding hours, languages, and activity via WakaTime.
 <p align="center">
   <img src="https://stats.ajay.app/api/top-langs?username=Caaads&layout=compact&theme=tokyonight&hide=css,html&repo=lockerosa,WSFINAL,cadaadvportfolio" />
 </p>
 
 
 ---
+## GitHub Analytics
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caaads&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caaads&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caaads&theme=tokyonight" />
+</p>
 ## Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaads&layout=compact&theme=tokyonight" />
@@ -93,6 +109,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/Caaads" />
+</p>
 
 ## Contribution Snake (Animated)
 
