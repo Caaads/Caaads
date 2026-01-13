@@ -142,18 +142,4 @@
 > I build muscles by day and build systems by night  💪💻
 
 ---
----
-
-## Live Portfolio
-
-<p align="center">
-  <a href="https://cada-portfolio.vercel.app">
-    <img src="https://api.microlink.io/?url=https://cada-portfolio.vercel.app&viewport.width=1280&viewport.height=800&scale=1&embed=screenshot.url" />
-  </a>
-</p>
-
-<p align="center">
-  🔗 https://cada-portfolio.vercel.app
-</p>
-
 **Star my repos if you like what you see — more stars = more fire projects**
