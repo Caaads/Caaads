@@ -62,6 +62,8 @@
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaads&layout=compact&theme=tokyonight&repo=lockerosa,WSFINAL,cadaadvportfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaads&layout=compact&theme=tokyonight&hide=css,html&repo=lockerosa,WSFINAL,cadaadvportfolio" />
   <img src="https://github-readme-stats.vercel.app/api?username=Caaads&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caaads&theme=tokyonight" width="48%" />
 </p>
