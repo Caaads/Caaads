@@ -49,12 +49,12 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
 
 ---
