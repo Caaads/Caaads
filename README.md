@@ -1,16 +1,99 @@
-## Hi there 👋
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Caaads&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**Caaads/Caaads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"></h1>
+<h3 align="center">IT Student | Web Developer | Tech Explorer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Caaads&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- IT Student passionate about building **real-world systems**
+- Focused on **Web Development & Backend Systems**
+- Learning **Django, React, APIs, and Databases**
+- Currently working on **full-stack web apps**
+- Gym, jogging, and improving both **code and body**
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Caaads">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:alfred.mari2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,php,nodejs" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caaads&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caaads&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaads&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caaads&theme=tokyo-night" />
+</p>
+
+---
+
+## Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://github.com/Caaads/Caaads/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I build muscles by day and build systems by night  💪💻
+
+---
+
+⭐ **Star my repos if you like what you see — more stars = more fire projects**
