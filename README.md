@@ -86,7 +86,7 @@
 ## Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://github.com/Caaads/Caaads/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Caaads/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
