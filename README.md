@@ -113,23 +113,6 @@
 
 ---
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Caaads/lockerosa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caaads&repo=lockerosa&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Caaads/WSFINAL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caaads&repo=WSFINAL&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Caaads/cadaadvportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caaads&repo=cadaadvportfolio&theme=tokyonight" />
-  </a>
-</p>
-
 ## Contribution Snake (Animated)
 
 <p align="center">
